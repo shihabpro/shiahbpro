@@ -21,8 +21,7 @@ I'm a passionate web developer with a love for creating interactive and user-fri
 
 #### 📫 Let's Connect
 - GitHub: [shiahbpro](https://github.com/shiahbpro)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Portfolio: [Your Portfolio Website](https://www.yourwebsite.com)
+- Portfolio: [Your Portfolio Website](https://shihabpro.github.io/)
 
 #### 🌐 Visit My Website
 Explore my portfolio and check out more of my work on my personal website: [shiahbpro.com](https://www.shiahbpro.com)
